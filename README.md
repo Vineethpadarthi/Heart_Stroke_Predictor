@@ -1,5 +1,4 @@
-# Firebase Studio
+# Heart Stroke
 
-This is a NextJS starter in Firebase Studio.
+Requirements:- Glucose level, Age, Gender, Marital Status, Work type, Residence type, BMI(Body Mass Index), Smoking Status, Hypertension, Heart Disease.
 
-To get started, take a look at src/app/page.tsx.
